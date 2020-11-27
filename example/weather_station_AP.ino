@@ -1,7 +1,6 @@
 // Load Wi-Fi library
 #include <WiFi.h>
 #include <Adafruit_BME280.h>
-#include <Adafruit_Sensor.h>
 #include <MAX44009.h>
 
 #define SEALEVELPRESSURE_HPA (1013.25) //< Average sea level pressure is 1013.25 hPa
