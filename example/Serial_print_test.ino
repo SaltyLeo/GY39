@@ -17,7 +17,7 @@ void setup() {
     Serial.println("Could not find a valid BME280 sensor, check wiring!");
     while (1);
   }
-
+}
 
 void loop() { 
  // Output data to serial monitor
