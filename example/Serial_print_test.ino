@@ -1,4 +1,3 @@
-#include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 #include <MAX44009.h>
 
