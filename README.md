@@ -25,16 +25,25 @@ Spacification:
 GY-39 Serial MAX44009 Light Intensity BME280 Temperature And Humidity Atmospheric Pressure Sensor Module
 
 GY-39 light intensity temperature and humidity atmospheric pressure sensor module, direct serial port output
+
 1, can be used as a simple MAX44009 or BME280 module, chip I2C communication
+
 2, you can read all kinds of data on the module MCU, MCU calculation of the unified direct output of the calculation
 of the practical data, support for serial /i2c
+
 3, you can connect the Android mobile phone or UTB to TTL module connected to the computer via bluetooth module,
 Data analysis of computer software
+
 Name: 4 in 1 weather station module(light intensity + temperature and humidity + atmospheric pressure module)
+
 Model: GY-39
+
 Using chip: MAX44009+BME280+MCU
+
 Power supply: 3-5v
+
 Module size: 24.3*26.7mm
+
 Communication mode:MCU_IIC/MCU_Serial / sensor chip IIC bus
 
 Introduction:
