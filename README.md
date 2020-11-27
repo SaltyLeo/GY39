@@ -18,7 +18,9 @@ SCL ->  pin22
 when using I2C, you need to connet "S０" and "G".
 
 
-# GY39
+# GY39 
+
+Spacification:
 
 GY-39 Serial MAX44009 Light Intensity BME280 Temperature And Humidity Atmospheric Pressure Sensor Module
 
