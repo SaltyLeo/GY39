@@ -1,8 +1,20 @@
-# GY39
-
 Arduino example for the GY39 sensor
 
+I use ESP32 to connet with GY39 sensor, 
+
+all the example base on Arduino and EPS32.
+
+the pin connetiong as below:
+--------------
+VCC ->  3.3V
+GND ->  G
+SDA ->  pin21
+SCL ->  pin22
+--------------
 when using I2C, you need to connet "S０" and "G".
+
+
+# GY39
 
 GY-39 Serial MAX44009 Light Intensity BME280 Temperature And Humidity Atmospheric Pressure Sensor Module
 
