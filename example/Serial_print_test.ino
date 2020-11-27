@@ -2,7 +2,7 @@
 #include <Adafruit_BME280.h>
 #include <MAX44009.h>
 
-#define SEALEVELPRESSURE_HPA (1018)
+#define SEALEVELPRESSURE_HPA (1013.25)
 
 Adafruit_BME280 bme; //  I2C Define BME280
 MAX44009 sensor;//I2C Define MAX44009
