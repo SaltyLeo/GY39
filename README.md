@@ -7,9 +7,13 @@ all the example base on Arduino and EPS32.
 the pin connetiong as below:
 --------------
 VCC ->  3.3V
+
 GND ->  G
+
 SDA ->  pin21
+
 SCL ->  pin22
+
 --------------
 when using I2C, you need to connet "S０" and "G".
 
