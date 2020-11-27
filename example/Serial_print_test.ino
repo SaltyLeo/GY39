@@ -5,18 +5,14 @@
 #define SEALEVELPRESSURE_HPA (1013.25)
 
 Adafruit_BME280 bme; //  I2C Define BME280
-MAX44009 sensor;//I2C Define MAX44009
+MAX44009 sensor;    //   I2C Define MAX44009
 
 unsigned long delayTime=3000;
 
 void setup() {
   Serial.begin(9600);
   Serial.println(F("BME280 test"));
-
   bool status;
-
-  // default settings
-  // (you can also pass in a Wire library object like &Wire2)
   status = bme.begin(0x76);  
   if (!status) {
     Serial.println("Could not find a valid BME280 sensor, check wiring!");
