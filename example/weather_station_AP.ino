@@ -4,7 +4,7 @@
 #include <Adafruit_Sensor.h>
 #include <MAX44009.h>
 
-#define SEALEVELPRESSURE_HPA (1013.25)
+#define SEALEVELPRESSURE_HPA (1013.25)/**< Average sea level pressure is 1013.25 hPa */
 
 Adafruit_BME280 bme; // I2C Define BME280
 MAX44009 sensor;//I2C Define MAX44009
