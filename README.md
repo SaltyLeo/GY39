@@ -1,5 +1,8 @@
 # GY39
+
 Arduino example for the GY39 sensor
+
+when using I2C, you need to connet "S０" and "G".
 
 GY-39 Serial MAX44009 Light Intensity BME280 Temperature And Humidity Atmospheric Pressure Sensor Module
 
